@@ -20,3 +20,10 @@ Repository containing coursework, problem sets, and code implementations for Dat
   - Problem P2: Jaccard similarity and distance between Vietnamese word sets (“ông già đi nhanh quá” and “thời_gian trôi đi nhanh quá”).
   - Problem P3: Vocabulary construction, term-frequency (TF) vector representation, and cosine similarity between English sentences.
   - Problem P4: Levenshtein edit distance dynamic programming table and optimal edit alignment between “học sinh” and “hojc xih”.
+- [Problem Set 4: Clustering](Problem%20Set%204/README.md)
+  - Problem P1: Cell-based Shannon entropy $H$ for an 8-point distribution across a $4 \times 4$ spatial grid.
+  - Problem P2: K-Means clustering algorithm ($k=3$, Euclidean metric) with initial seeds $A_1(2,10), B_1(5,8), C_1(1,2)$, intermediate centroids after Iteration 1, and final converged clusters.
+  - Problem P3: Agglomerative hierarchical clustering on a 6-object distance matrix using Single Link (nearest neighbor) and Complete Link (furthest neighbor) with dendrograms.
+- [Problem Set 5: Density-Based Clustering (DBSCAN)](Problem%20Set%205/README.md)
+  - Questions (a)-(g): Complete DBSCAN evaluation ($\epsilon = 2.0, \text{MinPts} = 3$) on a 24-point 2D dataset.
+  - Identification of 20 core points and 4 border points ($l, m, u, x$), verification of direct density-reachability ($d \to a$), reachability path ($i \to \dots \to o$), asymmetry of density-reachable relation, density-connectivity proof between $l$ and $x$ through $(t, w)$, symmetry of density-connected relation, and partition into 2 clusters with 0 noise points.

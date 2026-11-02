@@ -15,4 +15,8 @@ Repository containing coursework, problem sets, and code implementations for Dat
   - Problem P4: Mathematical value ranges of normalization methods (min-max, z-score, z-score with MAD, decimal scaling).
   - Problem P5: Normalization transformations on age value 35 (min-max onto [0, 1], z-score with std 12.94, decimal scaling) and method preference evaluation.
   - Problem P6: Automatic concept hierarchy generation algorithm for nominal data based on attribute distinct value counts (pseudocode, Python implementation, schema execution).
-
+- [Problem Set 3: Similarity and Distance Measures](Problem%20Set%203/README.md)
+  - Problem P1: Euclidean ($L_2$), Manhattan ($L_1$), and Minkowski ($L_3, q=3$) distances between numerical data objects $(22, 1, 42, 10)$ and $(20, 0, 36, 8)$.
+  - Problem P2: Jaccard similarity and distance between Vietnamese word sets (“ông già đi nhanh quá” and “thời_gian trôi đi nhanh quá”).
+  - Problem P3: Vocabulary construction, term-frequency (TF) vector representation, and cosine similarity between English sentences.
+  - Problem P4: Levenshtein edit distance dynamic programming table and optimal edit alignment between “học sinh” and “hojc xih”.
